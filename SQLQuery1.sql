@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT(ServersDB, RESEED, 0)
